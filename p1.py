@@ -1,4 +1,4 @@
-n = int(input("Enter n: "))
+n = int(input("enter n: "))
 words = []
 for i in range(n):
  words.append(input("Enter string: "))
